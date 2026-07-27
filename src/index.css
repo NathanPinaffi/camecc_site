@@ -118,6 +118,8 @@ footer .logo .c-red{color:var(--red)}
   .sobre{padding:5rem 6vw}
   .card:nth-child(even),.card:nth-child(odd){transform:none}
   header{padding:16px 5vw}
+  header button {text-decoration: none;}
+  .blob{width: 10%; height: 10%}
   nav ul{top:60px;height:calc(100vh - 60px);width:min(88vw,320px);gap:1.6rem;padding:2.4rem 2rem;background:var(--white);border-left:4px solid var(--black);box-shadow:-6px 0 0 var(--red)}
   .nav-toggle{font-size:1.8rem;padding:.2rem .4rem;border-radius:10px}
   .logo{font-size:1.4rem}

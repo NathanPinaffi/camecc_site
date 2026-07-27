@@ -110,7 +110,6 @@ function App() {
 
       <header>
         <a href="#"><div className="logo">CAME<span className="c-red">C</span>c</div></a>
-        <button className="nav-toggle" id="navToggle" type="button" aria-label="Abrir menu">☰</button>
         <nav>
           <ul id="navList">
             <li><a href="#inicio">Início</a></li>
