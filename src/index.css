@@ -136,12 +136,12 @@ footer .logo .c-red{color:var(--red)}
   .cards-grid{grid-template-columns:1fr}
   .card{padding:1.3rem}
   .card:hover{transform:none !important;box-shadow:8px 8px 0 var(--red)}
-  .team-grid{grid-template-columns:1fr}
+  .team-grid{width: 50%; height: 50%;grid-template-columns:1fr}
   .note-box{padding:1rem}
   .social-row{flex-direction:row;flex-wrap:wrap}
   .social-btn{width:56px;height:56px}
   .social-btn svg{width:22px;height:22px}
-  .gallery-grid{grid-template-columns:1fr}
+  .gallery-grid{width: 50%; height: 50%;grid-template-columns:1fr}
   .poster{aspect-ratio:4/5}
   .poster .poster-mascote{width:min(110px,28vw)}
   footer{padding:1rem 1rem}
